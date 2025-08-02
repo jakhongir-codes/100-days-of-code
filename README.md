@@ -1,9 +1,11 @@
 # 100 Days of Code
 
 ## Goals
-- [ ] Complete reading YDKSJ series
-- [ ] Complete the whole curriculum that I designed
-- [ ] Code daily - test, build, deploy my passion project
+- [ ] Complete reading the YDKJS series
+- [ ] Complete the curriculum I designed
+- [ ] Code daily: test, build, and deploy the side project
+- [ ] Publish at least 1 blog a week
+- [ ] Tweet daily 
 
 ## Code Logs
 
